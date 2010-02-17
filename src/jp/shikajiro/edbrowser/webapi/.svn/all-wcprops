@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/1082/platform/air/edbrowser/trunk/EdBrowser/src/jp/shikajiro/edbrowser/webapi
+END
+AmebaVision.as
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/1082/platform/air/edbrowser/trunk/EdBrowser/src/jp/shikajiro/edbrowser/webapi/AmebaVision.as
+END
+IWebApi.as
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/1082/platform/air/edbrowser/trunk/EdBrowser/src/jp/shikajiro/edbrowser/webapi/IWebApi.as
+END
+Photozou.as
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/1082/platform/air/edbrowser/trunk/EdBrowser/src/jp/shikajiro/edbrowser/webapi/Photozou.as
+END
+Technorati.as
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/1082/platform/air/edbrowser/trunk/EdBrowser/src/jp/shikajiro/edbrowser/webapi/Technorati.as
+END
+SimpleAPI.as
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/1082/platform/air/edbrowser/trunk/EdBrowser/src/jp/shikajiro/edbrowser/webapi/SimpleAPI.as
+END
+WebApiImpl.as
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/1082/platform/air/edbrowser/trunk/EdBrowser/src/jp/shikajiro/edbrowser/webapi/WebApiImpl.as
+END
+Reflexa.as
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/1082/platform/air/edbrowser/trunk/EdBrowser/src/jp/shikajiro/edbrowser/webapi/Reflexa.as
+END
+Sagool.as
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/1082/platform/air/edbrowser/trunk/EdBrowser/src/jp/shikajiro/edbrowser/webapi/Sagool.as
+END
+YahooImageSearch.as
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/1082/platform/air/edbrowser/trunk/EdBrowser/src/jp/shikajiro/edbrowser/webapi/YahooImageSearch.as
+END
+YahooVideoSearch.as
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/1082/platform/air/edbrowser/trunk/EdBrowser/src/jp/shikajiro/edbrowser/webapi/YahooVideoSearch.as
+END
+Youtube.as
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/1082/platform/air/edbrowser/trunk/EdBrowser/src/jp/shikajiro/edbrowser/webapi/Youtube.as
+END
+YahooWordSearch.as
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/1082/platform/air/edbrowser/trunk/EdBrowser/src/jp/shikajiro/edbrowser/webapi/YahooWordSearch.as
+END

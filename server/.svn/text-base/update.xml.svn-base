@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<update xmlns="http://ns.adobe.com/air/framework/update/description/1.0">
+	<version>0.7</version>
+	<url>http://shikajiro.googlepages.com/EdBrowser.air</url>
+	<description>
+		<text xml:lang="ja">
+			<![CDATA[
+				0.4
+				・EdoBrowser　→　EdBrowserになりました。
+				　そのため自動更新が失敗します。
+				　現在のアプリをアンインストール後、公式HPから再インストールをお願いします。
+				0.5
+				・youtube機能追加
+				・検索窓でEnterキーで検索可能
+				0.6
+				・検索対象のタイトルを表示
+				0.7
+				・ウインドウが開かないバグ修正
+			]]>
+		</text>
+	</description>
+</update>

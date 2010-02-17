@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/1452/platform/air/edbrowser/trunk/EdBrowser/src/com/senocular/ui
+END
+VirtualMouseEvent.as
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/1452/platform/air/edbrowser/trunk/EdBrowser/src/com/senocular/ui/VirtualMouseEvent.as
+END
+VirtualMouseMouseEvent.as
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/1452/platform/air/edbrowser/trunk/EdBrowser/src/com/senocular/ui/VirtualMouseMouseEvent.as
+END
+VirtualMouse.as
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/1452/platform/air/edbrowser/trunk/EdBrowser/src/com/senocular/ui/VirtualMouse.as
+END
+IVirtualMouseEvent.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/1452/platform/air/edbrowser/trunk/EdBrowser/src/com/senocular/ui/IVirtualMouseEvent.as
+END

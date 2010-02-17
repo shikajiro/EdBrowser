@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<local:FocusApp
+	xmlns:mx="http://www.adobe.com/2006/mxml" 
+	xmlns:local="jp.shikajiro.edbrowser.*"
+	layout="absolute" 
+	frameRate="60"
+	backgroundColor="#000000">
+	
+	<!-- 3d空間 -->
+	<mx:UIComponent id="component3D"/>
+	
+	<!-- 検索バー -->
+	<mx:ApplicationControlBar>
+		<mx:TextInput id="searchText" width="100" enter="{searchAll(searchText.text)}"/>
+		<mx:Button id="search" label="search" click="{searchAll(searchText.text)}"/>
+		<mx:Button id="clear" label="clear" click="{remove()}"/>
+		<mx:Button id="home" label="home" click="{homePosition()}"/>
+<!--		<mx:Button id="wiimotePoint" label="wiimote" click="{focusApp.wiimoteControll()}"/> -->
+	</mx:ApplicationControlBar>
+	
+	<!-- メッセージビュー -->
+	<mx:Canvas id="creditCanvas" width="100%" height="40" backgroundAlpha="0.6" backgroundColor="#FFFFFF" y="{height-80}" visible="false">
+		<mx:Text id="creditText" fontSize="16"  textAlign="center" width="100%" text="sample" height="24" y="8" visible="false"/>
+	</mx:Canvas>
+
+<!-- <mx:Image id="imgCursor" source="{_cursor}" horizontalCenter="0" verticalCenter="0"/> -->
+</local:FocusApp>
